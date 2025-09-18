@@ -1,0 +1,214 @@
+{
+  "giftCards": [
+    {
+      "id": 1,
+      "title": "Disney-Plus",
+      "value": 95,
+      "cardNumber": "0164499482",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "689",
+      "code": "GIFT-CARD-CODE-0692",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 2,
+      "title": "Snapchat+",
+      "value": 70,
+      "cardNumber": "8472945531",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "474",
+      "code": "GIFT-CARD-CODE-3520",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 3,
+      "title": "Spotify",
+      "value": 75,
+      "cardNumber": "1255673086",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "541",
+      "code": "GIFT-CARD-CODE-1585",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 5,
+      "title": "Snapchat+",
+      "value": 75,
+      "cardNumber": "5648737448",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "306",
+      "code": "GIFT-CARD-CODE-1762",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 6,
+      "title": "Spotify",
+      "value": 120,
+      "cardNumber": "4356335242",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "829",
+      "code": "GIFT-CARD-CODE-4601",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 7,
+      "title": "Amazon-Prime",
+      "value": 45,
+      "cardNumber": "7518038955",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "832",
+      "code": "GIFT-CARD-CODE-5054",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 8,
+      "title": "YouTube-Premium",
+      "value": 25,
+      "cardNumber": "7434491476",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "900",
+      "code": "GIFT-CARD-CODE-3704",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 9,
+      "title": "YouTube-Premium",
+      "value": 65,
+      "cardNumber": "3363793525",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "473",
+      "code": "GIFT-CARD-CODE-8995",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 10,
+      "title": "Netflix",
+      "value": 40,
+      "cardNumber": "2657617809",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "496",
+      "code": "GIFT-CARD-CODE-0021",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 11,
+      "title": "YouTube-Premium",
+      "value": 120,
+      "cardNumber": "9459114905",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "937",
+      "code": "GIFT-CARD-CODE-6057",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 12,
+      "title": "Apple-TV",
+      "value": 75,
+      "cardNumber": "4832535547",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "346",
+      "code": "GIFT-CARD-CODE-3162",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 13,
+      "title": "Apple-Music",
+      "value": 120,
+      "cardNumber": "6732272222",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "004",
+      "code": "GIFT-CARD-CODE-2425",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 14,
+      "title": "Apple-TV",
+      "value": 85,
+      "cardNumber": "0691411416",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "981",
+      "code": "GIFT-CARD-CODE-3014",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 15,
+      "title": "Apple-Music",
+      "value": 110,
+      "cardNumber": "3160372660",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "221",
+      "code": "GIFT-CARD-CODE-1445",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 16,
+      "title": "Netflix",
+      "value": 30,
+      "cardNumber": "6559127228",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "567",
+      "code": "GIFT-CARD-CODE-3971",
+      "createdAt": "2025-08-27T10:31:56.374Z"
+    },
+    {
+      "id": 17,
+      "title": "Disney-Plus",
+      "value": 120,
+      "cardNumber": "2431922416",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "014",
+      "code": "GIFT-CARD-CODE-2418",
+      "createdAt": "2025-08-27T10:31:56.375Z"
+    },
+    {
+      "id": 18,
+      "title": "Spotify",
+      "value": 65,
+      "cardNumber": "4931699189",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "485",
+      "code": "GIFT-CARD-CODE-8525",
+      "createdAt": "2025-08-27T10:31:56.375Z"
+    },
+    {
+      "id": 19,
+      "title": "YouTube-Premium",
+      "value": 120,
+      "cardNumber": "5136285723",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "376",
+      "code": "GIFT-CARD-CODE-0171",
+      "createdAt": "2025-08-27T10:31:56.375Z"
+    },
+    {
+      "id": 20,
+      "title": "YouTube-Premium",
+      "value": 105,
+      "cardNumber": "0408696407",
+      "holder": "John Doe",
+      "expires": "12/25",
+      "cvv": "052",
+      "code": "GIFT-CARD-CODE-2948",
+      "createdAt": "2025-08-27T10:31:56.375Z"
+    }
+  ],
+  "nextId": 21
+}
